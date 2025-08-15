@@ -352,7 +352,7 @@ The system generates:
 
 ### Technical Support
 - **GitHub Issues**: Repository-specific technical questions
-- **Email Contact**: [your.email@university.edu]
+- **Email Contact**: [mnasirzonouzi@uwaterloo.ca]
 - **Documentation**: Comprehensive guides in docs/ directory
 
 ## References
