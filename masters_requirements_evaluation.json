@@ -1,0 +1,26 @@
+{
+  "segmentation": {
+    "whole_pancreas_pass": false,
+    "lesion_pass": false,
+    "detailed": {}
+  },
+  "classification": {
+    "classification_pass": false,
+    "detailed": {}
+  },
+  "speed": {
+    "speed_pass": true,
+    "detailed": {
+      "speed_improvement": 0.15,
+      "improvement_percentage": 15.0
+    }
+  },
+  "final_assessment": {
+    "requirements_met": 1,
+    "total_requirements": 4,
+    "overall_qualified": false,
+    "overall_status": "\u274c DOES NOT MEET REQUIREMENTS",
+    "recommendation": "Substantial work needed to meet Master's degree standards."
+  },
+  "timestamp": "2025-08-15 00:56:11"
+}
