@@ -1,4 +1,4 @@
-# Pancreas Cancer Analysis – Multitask nnU-Net
+# Pancreas Cancer Analysis – Multitask nnU-Net :D
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
